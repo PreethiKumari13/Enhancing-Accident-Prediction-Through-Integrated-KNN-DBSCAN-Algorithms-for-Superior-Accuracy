@@ -182,32 +182,7 @@ The project generates:
 - KNN Accuracy Comparison
 - Classification Reports
 
----
 
-# 📁 Project Structure
-
-```
-Road-Accident-Prediction-KNN-DBSCAN
-│
-├── accident_prediction.ipynb
-├── accident_prediction.py
-├── README.md
-├── requirements.txt
-├── dataset/
-│   └── perfect_accident_dataset_final.csv
-├── models/
-│   ├── knn_accident_model.pkl
-│   └── scaler.pkl
-├── images/
-│   ├── confusion_matrix.png
-│   ├── correlation_heatmap.png
-│   └── accuracy_graph.png
-├── Project_Report.pdf
-├── Project_Presentation.pdf
-└── Published_Paper.pdf
-```
-
----
 
 # ▶️ How to Run
 
